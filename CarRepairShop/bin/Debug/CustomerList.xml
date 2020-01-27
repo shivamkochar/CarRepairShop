@@ -1,11 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Customers>
 	<Customer>
+		<FirstName>Shivam</FirstName>
+		<LastName>Kochar</LastName>
+		<Age>22</Age>
+		<City>Waterloo</City>
+		<AccountNumber>1001</AccountNumber>
+		<Vehicles>
+			<Make>Hyundai</Make>
+			<Model>Palisade</Model>
+			<Color>White</Color>
+			<NumberOfDoors>4</NumberOfDoors>
+			<SelectedAccNumber>1001</SelectedAccNumber>
+		</Vehicles>
+		<Vehicles>
+			<Make>honda</Make>
+			<Model>accord</Model>
+			<Color>white</Color>
+			<NumberOfDoors>4</NumberOfDoors>
+			<SelectedAccNumber>1001</SelectedAccNumber>
+		</Vehicles>
+		<Vehicles>
+			<Make>audi</Make>
+			<Model>rs7</Model>
+			<Color>white</Color>
+			<NumberOfDoors>2</NumberOfDoors>
+			<SelectedAccNumber>1001</SelectedAccNumber>
+		</Vehicles>
+	</Customer>
+	<Customer>
 		<FirstName>shivam</FirstName>
 		<LastName>kochar</LastName>
 		<Age>22</Age>
 		<City>waterloo</City>
 		<AccountNumber>1001</AccountNumber>
+		<Vehicles>
+			<Make>Hyundai</Make>
+			<Model>Palisade</Model>
+			<Color>White</Color>
+			<NumberOfDoors>4</NumberOfDoors>
+			<SelectedAccNumber>1001</SelectedAccNumber>
+		</Vehicles>
 		<Vehicles>
 			<Make>honda</Make>
 			<Model>accord</Model>
